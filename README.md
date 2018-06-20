@@ -1,4 +1,6 @@
 # hello-world
 Learning the github
 
-First branch test to use Github.
+second test revison to hello-world.
+// First branch test to use Github.
+delete the above line.
